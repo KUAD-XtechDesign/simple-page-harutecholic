@@ -1,2 +1,2 @@
 # simple_page
-git/html/css練習用のファイルです。
+何何何
