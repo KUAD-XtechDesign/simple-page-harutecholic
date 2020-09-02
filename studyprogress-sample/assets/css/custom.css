@@ -142,6 +142,8 @@ main{
 
 .sub_pic img{
     display:block;
+    width: 600px;
+    height: 600px;
 }
 
 .main_pic img{
