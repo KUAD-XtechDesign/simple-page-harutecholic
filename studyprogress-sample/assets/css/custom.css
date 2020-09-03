@@ -91,6 +91,13 @@ header {
     
 }
 
+#amazon li a:hover,
+#amazon li span{
+    color:#e2970c;
+    
+}
+
+
 #main_nav li span{
     border-bottom: 3px solid #e2970c;
 }
