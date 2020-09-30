@@ -91,6 +91,13 @@ header {
     
 }
 
+#amazon li a:hover,
+#amazon li span{
+    color:#e2970c;
+    
+}
+
+
 #main_nav li span{
     border-bottom: 3px solid #e2970c;
 }
@@ -142,6 +149,8 @@ main{
 
 .sub_pic img{
     display:block;
+    width: 600px;
+    height: 600px;
 }
 
 .main_pic img{

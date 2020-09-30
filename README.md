@@ -1,2 +1,2 @@
-# simple_page
-何何何
+# simple-page-harutecholic
+simple-page-harutecholic created by GitHub Classroom

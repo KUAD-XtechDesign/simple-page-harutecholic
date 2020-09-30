@@ -1,6 +1,6 @@
 html {
-  color: #333;
-  background: #fff;
+  color: rgb(240, 241, 241);
+  background: rgb(114, 125, 156);
 
   font-size: 14px;
   line-height: 1.8;
@@ -9,16 +9,19 @@ html {
 *{
   margin:0;
   padding:0;
-  box-sizing: border-box;
+ 
+  
 }
 
 img{
   max-width: 100%;
-  height:auto;
+  height:580px;
 }
 
+
 a{
-  color:#333;
+  color:rgba(218, 216, 216, 0.705);
+  
 }
 
 li{
@@ -28,6 +31,7 @@ li{
 
 .mb_s{
   margin-bottom: 10px;
+  
 }
 
 .mb_m{
